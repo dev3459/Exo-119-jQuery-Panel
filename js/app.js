@@ -1,3 +1,3 @@
-$('.panel').click(function(event){
+$('.panel').click(function(){
     $(this).toggleClass('open');
 });
